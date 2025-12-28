@@ -438,15 +438,4 @@ You can confidently explain:
 - [ ] User management UI for admins
 - [ ] Webhook support for external integrations
 
-## 📄 License
-
-ISC
-
-## 👤 Author
-
-Video Sensitivity Analysis Application
-
----
-
-**Note:** This is a production-ready architecture suitable for interviews and assignments. Replace the mock sensitivity analysis service with actual AI/ML integration for real-world deployment.
 
